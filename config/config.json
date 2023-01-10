@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "WfnFUw1Ns9Mc7rlP",
-    "password": "OfRirTj6tKYgFvly",
+    "username": "V2EnB6gdAreBTxjV",
+    "password": "hOhAS9fLTg30TxT4",
     "database": "mymaria_db",
-    "host": "mymariadb-infh5-mariadb.mymariadb-infh5.svc.cluster.local",
+    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
     "dialect": "mariadb"
   },
   "test": {
-    "username": "WfnFUw1Ns9Mc7rlP",
-    "password": "OfRirTj6tKYgFvly",
-    "database": "phomymaria_dbtos",
-    "host": "mymariadb-infh5-mariadb.mymariadb-infh5.svc.cluster.local",
+    "username": "V2EnB6gdAreBTxjV",
+    "password": "hOhAS9fLTg30TxT4",
+    "database": "mymaria_db",
+    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
     "dialect": "mariadb"
   },
   "production": {
-    "username": "WfnFUw1Ns9Mc7rlP",
-    "password": "OfRirTj6tKYgFvly",
+    "username": "V2EnB6gdAreBTxjV",
+    "password": "hOhAS9fLTg30TxT4",
     "database": "mymaria_db",
-    "host": "mymariadb-infh5-mariadb.mymariadb-infh5.svc.cluster.local",
+    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
     "dialect": "mariadb"
   }
 }
