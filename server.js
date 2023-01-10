@@ -25,7 +25,7 @@ app.use("*", (request, response, next) => {
 
 //db
 db.sequelize
-  .sync()
+  .sync({force:true})
   .then(() => {
     app.listen(sqlPort, () => {
       console.log(
