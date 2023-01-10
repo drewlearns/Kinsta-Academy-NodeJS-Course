@@ -3,21 +3,21 @@
     "username": "V2EnB6gdAreBTxjV",
     "password": "hOhAS9fLTg30TxT4",
     "database": "mymaria_db",
-    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
+    "host": "mymariadb-3wjxi-mariadb.external.kinsta.app",
     "dialect": "mariadb"
   },
   "test": {
     "username": "V2EnB6gdAreBTxjV",
     "password": "hOhAS9fLTg30TxT4",
     "database": "mymaria_db",
-    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
+    "host": "mymariadb-3wjxi-mariadb.external.kinsta.app",
     "dialect": "mariadb"
   },
   "production": {
     "username": "V2EnB6gdAreBTxjV",
     "password": "hOhAS9fLTg30TxT4",
     "database": "mymaria_db",
-    "host": "mymariadb-3wjxi-mariadb.mymariadb-3wjxi.svc.cluster.local",
+    "host": "mymariadb-3wjxi-mariadb.external.kinsta.app",
     "dialect": "mariadb"
   }
 }
